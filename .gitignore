@@ -25,7 +25,7 @@ media
 !*/migrations/__init__.py
 
 # Static files collected
-static/
+staticfiles/
 
 # Secret key
 *.secret
